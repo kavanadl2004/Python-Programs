@@ -1,0 +1,7 @@
+a = int(input("Enter the first number:"))
+b = int(input("Enter the second number:"))
+
+if a>b: #conditional statement, checks if a is greater than b
+  print("a is greater than b")
+else: #conditional statement, checks if a is not greater than b
+  print("b is greater than a")
